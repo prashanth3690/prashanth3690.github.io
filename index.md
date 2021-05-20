@@ -7,5 +7,4 @@
 #
 layout: home
 ---
-
-# *...Currently - Attempting to brew a homemade ginger ale and kombucha without creating a mess.*
+*Currently - Attempting to brew a homemade ginger ale and kombucha without creating a mess.*
