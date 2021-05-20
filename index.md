@@ -7,6 +7,6 @@
 #
 layout: home
 ---
-# **I am -**
+# **I am**
 
 ## *Currently - Attempting to brew a homemade ginger ale and kombucha without creating a mess.*
